@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">Kairul - MD</h1>
 <p align="center">
-  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HinataBot+Kairil+BOT+Multi+Device;Base+ori+by+Kairul;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=THE+Kairull+BOT+Multi+Device;Base+ori+by+Kairul;Recode+By+kairul;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
